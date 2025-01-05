@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on [Surface Brightness Profiles of BCGs]([Coming Soon])
 
-- 🌱 I’m currently learning **Machine Learning for Astrophysics Python Frameworks (e.g., TensorFlow, PyTorch) Astroinformatics and Data Visualization Techniques**
+- 🌱 I’m currently learning **Machine Learning for Astrophysics Python Frameworks (e.g., TensorFlow, PyTorch) etc.**
 
 - 👯 I’m looking to collaborate on **Astronomy and Astrophysics Research Projects**
 
 - 🤝 I’m looking for help with **Advanced Computational Physics Simulations**
 
-- 💬 Ask me about **Astronomy and Astrophysics, Computational Physics Techniques, Leadership**
+- 💬 Ask me about **Astronomy and Astrophysics, Computational Physics Techniques**
 
 - 📫 How to reach me **vishyliyanage@gmail.com**
 
